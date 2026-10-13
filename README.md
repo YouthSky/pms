@@ -5,7 +5,7 @@
 ## 平台简介
 
 * 本仓库为四川省XX监狱定制的监狱管理-执法保全系统v1
-* 后端采用Spring Boot3、Spring Security、Redis & Jwt。
+* 后端采用Spring Boot3、Spring Security、MySql8.0、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 高效率开发，使用代码生成器可以一键生成前后端代码。
