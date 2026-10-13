@@ -12,8 +12,9 @@
 
 # 版本分支
 
-RuoYi-Vue 后端项目使用 Spring Boot 3.
-RuoYi-Vue 前端项目提供 Vue 3 TypeScript。
+后端项目使用 Spring Boot 3.
+前端项目提供 Vue 3 TypeScript。
+本版本为私有主版本分支切出的公开版本分支，仅供面试使用，切勿商用，使用此版本商用造成的损失概不负责。
 
 ## 内置功能
 
