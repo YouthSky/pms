@@ -4,7 +4,7 @@
 
 ## 平台简介
 
-* 本仓库为RuoYi-Vue的Spring Boot 3 的版本
+* 本仓库为四川省XX监狱定制的监狱管理-执法保全系统v1
 * 后端采用Spring Boot3、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
 * 支持加载动态权限菜单，多方式轻松权限控制。
